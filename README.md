@@ -14,15 +14,14 @@ Il WebBook è stato realizzato utilizzando MkDocs. Utilizzando lo script python 
 
 ```mermaid
 graph LR
-A[Scelta della pagina wikibooks] --> B
-B(Estrazione tramite lo script Python della pagina in formato .md) --> C
-C((Gestione del documento tramite MkDocs)) --> D
-D(Eventuale modifica del file .md)
-C --> E(Modifica dello stile grafico e impaginazione mediante mkdocs.yml)
-C --> F(Test risultato finale tramite server locale)
-D --> G((Generazione tramite MdDocs del sito hostabile effettivo))
+A[Scelta <br> tema] --> B
+B(Estrazione da <br> WikiBooks) --> C
+C((Modifica tramite <br> MkDocs)) --> D
+D(Modifica  <br> file .md)
+C --> E(Grafica con <br> mkdocs.yml)
+C --> F(Server locale  <br> per testare)
+D --> G((Compilazione <br> con MkDocs))
 E --> G
 F --> G
-G --> H{Caricamento del risultato finale nella repository github dove il Webbook è hostato}
-
+G --> H{Caricamento <br> finale}
 ```

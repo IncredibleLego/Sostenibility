@@ -4,4 +4,4 @@ Pagina github utilizzata per hostare il sito del progetto [Sostenibility](https:
 
 Il sito si trova all'indirizzo https://incrediblelego.github.io/SostenibilityHost/
 
-![Sostenibility](./img/assets/sostenibility.png)
+![Sostenibility](../docs/img/assets/sostenibility.png)

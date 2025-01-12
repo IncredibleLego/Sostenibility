@@ -4,7 +4,9 @@ Progetto realizzato nell'ambito del corso di Editoria Digitale del prof Ceravolo
 
 Il WebBook è raggiungibile al seguente link: https://incrediblelego.github.io/SostenibilityHost/
 
-![Sostenibility](./my-project/site/img/assets/sostenibility.png)
+Nella repository è inoltre presente l'applicazione Android che permette di aprire il WebBook direttamente da cellulare, in formato di pacchetto Android .apk
+
+![Sostenibility](./my-project/docs/img/assets/sostenibility.png)
 
 ## Struttura
 

@@ -12,6 +12,9 @@ Nella sezione giochi troverai dei semplici quiz da completare dopo aver letto la
 
 Navigando alla sezione "Consigli" troverai i consigli per una vita sostenibile, mentre i quiz sono disponibili nella sezione "Giochi"
 
+* [Consigli](./tips.md)
+* [Giochi](./games.md)
+
 Non hai trovato quello che cerchi? Suggerisci un argomento di discussione
 Contattaci via mail o social agli indirizzi:
 
